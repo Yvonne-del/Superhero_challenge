@@ -108,5 +108,5 @@ Use Flask shell or seed file to populate the database for testing
 
 # Author
 Yvonne Nyambura
-Moringa School – Software Engineering Student
+
 GitHub: (https://github.com/Yvonne-del)
